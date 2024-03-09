@@ -1,0 +1,43 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+.mainheader {
+    width: 100%;
+    height: 90px;
+    border-bottom: solid 2px gray;
+    border-right: solid 7px black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    margin: 10px;
+    padding: 10px;
+}
+
+.etc {
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+    margin: 10px;
+}
+
+button {
+    font-family: Gilroy-Bold;
+    width: 120px;
+    height: 40px;
+}
+
+.iconkeeper {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin: 10px;
+}
+
+.instakill {
+    color: rgb(255, 125, 55);
+}
+
+.facecook {
+    color: rgb(255, 125, 55);
+}

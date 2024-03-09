@@ -1,0 +1,24 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+.post {
+    border: solid 2px black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.id {
+    font-family: Gilroy-Bold;
+}
+
+p {
+    font-family: Gilroy-Bold;
+}
+
+.destroyer {
+    border: solid 2px black;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
